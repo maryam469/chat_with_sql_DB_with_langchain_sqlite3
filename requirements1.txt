@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-groq
+langchain-community
+sqlalchemy
+mysql-connector-python
+python-dotenv
+pysqlite3-binary; platform_system == "Linux"
+
+
