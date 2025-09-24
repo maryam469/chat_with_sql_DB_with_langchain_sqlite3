@@ -1,0 +1,1 @@
+I built an AI-powered SQL chatbot using LangChain and Groq where users can connect SQLite or MySQL databases and ask queries in plain English or Roman Urdu. The app converts natural language into SQL queries automatically, executes them on the database, and returns real-time answers with an easy Streamlit UI.
